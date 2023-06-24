@@ -1,0 +1,34 @@
+{
+    "items": [
+      {
+        "name": "Potion",
+        "price": "$200",
+        "description": "Restores the HP of a Pokémon by 20 points.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/d/df/Dream_Potion_Sprite.png"
+      },
+      {
+        "name": "Hyper Potion",
+        "price": "$1200",
+        "description": "Restores the HP of a Pokémon by 200 points.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/d/df/Dream_Potion_Sprite.png"
+      },
+      {
+        "name": "Awakening",
+        "price": "$250",
+        "description": "Awakens a Pokémon from the sleep condition.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/d/df/Dream_Potion_Sprite.png"
+      },
+      {
+        "name": "Paralyze Heal",
+        "price": "$200",
+        "description": "Cures a Pokémon from the paralysis condition.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/d/df/Dream_Potion_Sprite.png"
+      }
+
+
+
+
+      
+    ]
+  }
+  

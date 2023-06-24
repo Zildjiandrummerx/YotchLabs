@@ -1,0 +1,32 @@
+{
+    "pokeballs": [
+      {
+        "name": "Poké Ball",
+        "price": "$200",
+        "description": "A device for catching wild Pokémon. It's thrown like a ball at a Pokémon, comfortably encapsulating its target.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/5/53/Dream_Ball_Sprite.png"
+      },
+      {
+        "name": "Great Ball",
+        "price": "$600",
+        "description": "A good, high-performance Poké Ball that provides a higher catch rate than a standard Poké Ball.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/2/26/Dream_Ball_Sprite.png"
+      },
+      {
+        "name": "Ultra Ball",
+        "price": "$1200",
+        "description": "An ultra-performance Poké Ball that provides a higher catch rate than a Great Ball.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/0/0e/Dream_Ball_Sprite.png"
+      },
+      {
+        "name": "Master Ball",
+        "price": "N/A",
+        "description": "The best Poké Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.",
+        "imageLink": "https://archives.bulbagarden.net/media/upload/0/0f/Dream_Ball_Sprite.png"
+      }
+
+
+      
+    ]
+  }
+  

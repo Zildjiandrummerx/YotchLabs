@@ -1,0 +1,32 @@
+{
+  "pokemons": [
+    {
+      "name": "Chikorita",
+      "pokedexNumber": 152,
+      "types": ["Grass"],
+      "imageLink": "PokeProject/images/pokemons/152_chikorita.png"
+    },
+    {
+      "name": "Bayleef",
+      "pokedexNumber": 153,
+      "types": ["Grass"],
+      "imageLink": "PokeProject/images/pokemons/153_bayleef.png"
+    },
+    {
+      "name": "Meganium",
+      "pokedexNumber": 154,
+      "types": ["Grass"],
+      "imageLink": "PokeProject/images/pokemons/"
+    },
+
+
+
+
+    {
+      "name": "Celebi",
+      "pokedexNumber": 251,
+      "types": ["Psychic", "Grass"],
+      "imageLink": "PokeProject/images/pokemons/"
+    }
+  ]
+}
